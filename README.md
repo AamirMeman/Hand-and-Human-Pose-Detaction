@@ -1,4 +1,4 @@
-# Hand-and-Human-Pose-Detaction
+# Human-Pose-Detaction
 
 Requirement:
 
